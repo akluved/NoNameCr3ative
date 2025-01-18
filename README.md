@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @NoNameCr3ative
+- 👋 Hi, I’m @akluved
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me email - nonamecr3ative@gmail.com
 
 <!---
 NoNameCr3ative/NoNameCr3ative is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
