@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akluved
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning Python
 
 <!---
 NoNameCr3ative/NoNameCr3ative is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
